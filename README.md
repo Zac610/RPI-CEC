@@ -1,13 +1,13 @@
 # RPI-CEC
 Manage Rasperry PI CEC commands from C++
 
-To compile this program install the following packages:
+To compile this program install the needed packages with the following commands (apt-based):
 
-apt install libcec
-apt install libcec4-dev
-apt install g++
-apt install raspberrypi-bootloader
-apt install libraspberrypi-dev
+* apt install libcec
+* apt install libcec4-dev
+* apt install g++
+* apt install raspberrypi-bootloader
+* apt install libraspberrypi-dev
 
 the command to compile the program is included into the build.sh file.
 
